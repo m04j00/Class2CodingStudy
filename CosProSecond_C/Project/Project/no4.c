@@ -8,6 +8,11 @@ int* func_a(int arr[], int arr_len) {
         counter[i] = 0;
     for (int i = 0; i < arr_len; i++)
         counter[arr[i]]++;
+
+    printf("%d\n", counter[0]);
+    printf("%d\n", counter[1]);
+    printf("%d\n", counter[2]);
+    printf("%d\n", counter[3]);
     return counter;
 }
 
