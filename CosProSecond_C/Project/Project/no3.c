@@ -24,5 +24,5 @@ int main() {
 	int end_day = 2;
 	int ret = solution(start_month, start_day, end_month, end_day);
 
-	printf("solution return value of the function : %d\n", ret);
+	printf("The return value of solution function : %d\n", ret);
 }
