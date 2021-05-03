@@ -24,5 +24,5 @@ int main() {
 	int end_day = 2;
 	int ret = solution(start_month, start_day, end_month, end_day);
 
-	printf("solution 함수의 반환 값은 %d 입니다.\n", ret);
+	printf("solution return value of the function : %d\n", ret);
 }
