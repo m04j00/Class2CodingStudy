@@ -21,9 +21,6 @@
   <ItemGroup>
     <ClCompile Include="no4.c" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="no3.c" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
