@@ -27,5 +27,26 @@
     <ClCompile Include="no2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="no5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="no6.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="no7.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="no8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="no10.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="no11.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="no12.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
