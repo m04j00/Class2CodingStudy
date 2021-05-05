@@ -19,7 +19,7 @@ int main() {
 		m = 60 - mi;
 	}
 
-	cout << h << " " << m;
+	cout << h << " : " << m;
 
 	return 0;
 }
