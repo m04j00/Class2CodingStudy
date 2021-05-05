@@ -18,10 +18,10 @@ int main() {
     int arr_len = 4;
     int* ret = solution(arr, arr_len);
 
-    printf("solution 함수의 반환 값은 {");
+    printf("The return value of solution function {");
     for (int i = 0; i < 4; i++) {
         if (i != 0) printf(", ");
         printf("%d", ret[i]);
     }
-    printf("} 입니다.\n");
+    printf("}\n");
 }
