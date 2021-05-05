@@ -6,12 +6,12 @@ int solution(int number) {
 	for (int i = 1; i <= number; i++) {
 		int current = i;
 		while (current != 0) {
-			if (current % 3 == 0)
+			if (current % 10 == 3 || current % 10 == 6 || current % 10 == 9)
 				count++;
 			current /= 10;
 		}
 	}
-	return count - 1;
+	return count;
 }
 int main() {
 	int number = 40;
