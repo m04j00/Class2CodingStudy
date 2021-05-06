@@ -7,7 +7,7 @@ int main() {
 
 	cin >> h >> m;
 
-	if (m >= 45) {
+	if (m >= mi) {
 		m -= mi;
 	}
 	else {
@@ -15,8 +15,7 @@ int main() {
 			h = 24;
 		}
 		h -= 1;
-		mi -= m;
-		m = 60 - mi;
+		m = 60 - (mi-m);
 	}
 
 	cout << h << " : " << m;
