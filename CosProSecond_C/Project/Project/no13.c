@@ -15,5 +15,5 @@ int main() {
     int M = 7;
     int ret = solution(N, M);
 
-    printf("solution 함수의 반환 값은 %d 입니다.\n", ret);
+    printf("The return value of solution function is %d\n", ret);
 }
