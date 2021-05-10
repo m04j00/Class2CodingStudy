@@ -19,7 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="no3-4_15552.cpp" />
+    <ClCompile Include="no3-5_2741.cpp" />
+    <ClCompile Include="no3-6_2742.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
