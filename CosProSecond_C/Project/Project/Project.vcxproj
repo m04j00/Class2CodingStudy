@@ -19,12 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="no20.c" />
     <ClCompile Include="no13.c" />
     <ClCompile Include="no14.c" />
     <ClCompile Include="no15.c" />
     <ClCompile Include="no16.c" />
     <ClCompile Include="no17.c" />
     <ClCompile Include="no18.c" />
+    <ClCompile Include="no19.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
