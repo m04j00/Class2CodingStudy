@@ -2,20 +2,22 @@
 using namespace std;
 
 int main() {
-	int n, rN = 0, cnt = 0;
-
-	int a, b, c, d = -1;
-
+	int n, newN = -1, cnt = 0;
+	int aN, bN, cN;
+	
 	cin >> n;
+	// n = 26
 	int nN = n;
 
-	while (d != nN) {
-		a = n / 10;
-		b = n % 10;
-		c = (a + b) % 10;
-		d = (b * 10) + c;
-		n = d;
+	while (newN != n) {
+		aN = nN / 10; // 2
+		bN = nN % 10; // 6
+		cN = (aN + bN) % 10; // 8
+		newN = (bN * 10) + cN; //60 + 8
+		nN = newN;
 		cnt++;
 	}
 	cout << cnt;
+
+	return 0;
 }
