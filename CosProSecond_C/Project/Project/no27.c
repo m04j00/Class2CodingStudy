@@ -31,4 +31,4 @@ int main() {
     int ret2 = solution(num_apple2, num_carrot2, k2);
 
     printf("solution 함수의 반환 값은 %d 입니다.\n", ret2);
-}
+} 

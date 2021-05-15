@@ -22,4 +22,4 @@ int main() {
     int ret = solution(programs, programs_len);
 
     printf("solution 함수의 반환 값은 %d 입니다.\n", ret);
-}
+} 
