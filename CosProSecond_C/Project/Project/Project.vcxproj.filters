@@ -15,22 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="no23.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="no24.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="no25.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="no26.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="no27.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="no28.c">
+    <ClCompile Include="no30.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
