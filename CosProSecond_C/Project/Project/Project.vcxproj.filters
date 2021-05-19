@@ -27,5 +27,11 @@
     <ClCompile Include="no32.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="no33.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="no34.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
