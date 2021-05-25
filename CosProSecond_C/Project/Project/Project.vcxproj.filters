@@ -27,5 +27,8 @@
     <ClCompile Include="no44.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="no45.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
