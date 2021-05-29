@@ -22,6 +22,7 @@
     <ClCompile Include="no49.c" />
     <ClCompile Include="no51.c" />
     <ClCompile Include="no52.c" />
+    <ClCompile Include="no53.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
