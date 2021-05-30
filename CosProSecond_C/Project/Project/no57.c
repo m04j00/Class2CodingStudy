@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdbool.h>
 #include <stdlib.h>
 int solution(int money, int chairs[], int chairs_len, int desks[], int desks_len) {
 	int answer = 0;
