@@ -21,6 +21,11 @@
   <ItemGroup>
     <None Include="no54.c" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="no55.c" />
+    <ClCompile Include="no56.c" />
+    <ClCompile Include="no57.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
