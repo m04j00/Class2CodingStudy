@@ -1,4 +1,4 @@
-# CodingTestStudy
+# Class 2 Coding Study
 2021 2학년 2반 코딩 실력 향상을 위한 스터디
   
 ## 5월
