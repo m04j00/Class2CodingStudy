@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdbool.h>
 #include <stdlib.h>
 int solution(int weight, int boxes[], int boxes_len) {
     int answer = 0;
