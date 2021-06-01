@@ -8,6 +8,3 @@ class Solution {
         return answer;
     }
 }
-public void public static void main(String[] args) {
-    
-}
