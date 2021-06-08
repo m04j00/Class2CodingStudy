@@ -10,6 +10,7 @@ class Solution {
         return answer.toString();
         
         /*
+
         String answer = "";
         
         for(int i = 1; i <= n; i++){
@@ -18,6 +19,7 @@ class Solution {
         }
         
         return answer;
+        
         */
     }
 }
