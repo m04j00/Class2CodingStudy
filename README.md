@@ -12,5 +12,5 @@
 >>결과물
   
 ## 6월
->[JAVA / C언어] Programmers 코딩테스트 문제 풀이
+>[JAVA / C언어 / JS] Programmers 코딩테스트 문제 풀이
 >>하루에 2문제씩 2 언어
